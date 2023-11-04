@@ -86,6 +86,43 @@
 //DefiningSimpleAndComplex(num, counter4);
 #endregion
 
+#region 5ci
+////5) n ededi gelir. 2-ni hansisa quvvete yukseltdikde n-in alinan cavaba beraber olub-olmamasını tapın.Meselen: Cavablar ola biler:2,4,8,16,32 ve s. Yeni n bele ededler olmalidir.
+//int num3 = 23;
+//bool IsPower = true;
+//void GettingPowerOfTwo(int num)
+//{
+//    if (num < 0)
+//    {
+//        Console.WriteLine("bu munkun deyil");
+//    }
+//    else
+//    {
+//        while (num > 1)
+//        {
+//            if (num % 2 != 0)
+//            {
+//                IsPower = false;
+//                break;
+//            }
+//            num /= 2;
+
+//        }
+//    }
+
+//    if (IsPower)
+//    {
+//        Console.WriteLine("bu eded 2nin ustudur");
+//    }
+//    else
+//    {
+//        Console.WriteLine(" deyildir");
+//    }
+//}
+//GettingPowerOfTwo(num3);
+#endregion
+
+
 
 
 
