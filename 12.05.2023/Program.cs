@@ -180,6 +180,26 @@
 
 #endregion
 
+#region 8ci
+//int[] Numbers7 = { -7, 5, -6, -7, 8, 9 };
+
+//void ConvertingNegativeOnesToPostive(int[] numbers)
+//{
+//    for (int i = 0; i < numbers.Length; i++)
+//    {
+//        if (numbers[i] < 0)
+//        {
+//            numbers[i] *= -1;
+//            Console.WriteLine(numbers[i]);
+
+//        }
+
+//    }
+
+//}
+//ConvertingNegativeOnesToPostive(Numbers7);
+
+#endregion
 
 
 
