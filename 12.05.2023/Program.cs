@@ -38,6 +38,27 @@
 //Console.WriteLine(GettingNumbersBetweenOddNumbersFromArray(numbers, counter2));
 #endregion
 
+#region 3cu
+////3)Verilmish arrayin icindeki cut ededlerin sayini tapin.
+//int[] numbers2 = { 1, 2, 34, 5, 6, 7, 8, 9, 12, 14, 86 };
+//int counter3 = 0;
+//string GettingNumbersBetweenEvenNumbers(int[] numbers, int counter)
+//{
+//    foreach (int n in numbers)
+//    {
+//        if (n % 2 == 0)
+//        {
+//            counter++;
+
+//        }
+
+//    }
+//    return ($"cavab:{counter} ");
+//}
+
+//Console.WriteLine(GettingNumbersBetweenEvenNumbers(numbers2, counter3));
+#endregion;
+
 
 
 
