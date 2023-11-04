@@ -59,6 +59,34 @@
 //Console.WriteLine(GettingNumbersBetweenEvenNumbers(numbers2, counter3));
 #endregion;
 
+#region 4cu
+////4) Verilmis n tam ededinin sade ve ya murekkeb oldugunu tapin.
+//int num = 14;
+//int counter4 = 0;
+//void DefiningSimpleAndComplex(int num1, int counter)
+//{
+//    for (int i = 1; i < num1; i++)
+//    {
+//        if (num1 % i == 0)
+//        {
+//            counter++;
+//        }
+//    }
+//    if (counter > 2)
+//    {
+//        Console.WriteLine("bu murekkebdir");
+
+//    }
+//    else
+//    {
+//        Console.WriteLine("sade");
+//    }
+
+//}
+//DefiningSimpleAndComplex(num, counter4);
+#endregion
+
+
 
 
 
