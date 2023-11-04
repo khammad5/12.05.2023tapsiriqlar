@@ -122,6 +122,25 @@
 //GettingPowerOfTwo(num3);
 #endregion
 
+#region 6ci
+////6)Verilmish arrayin-in elementlerinin icinden 1-20 arasinda olanlarinin hasilini tapmaq.Mes ([1,3,55,6,33], cavab : 18).
+//int[] numbers3 = { 1, 3, 55, 6, 33 };
+//int counter5 = 1;
+//string SumOfThem(int[] numbers3, int counter)
+//{
+//    foreach (int num3 in numbers3)
+//    {
+//        if (num3 <= 20)
+//        {
+//            counter *= num3;
+//        }
+//    }
+//    return ($"cavab:{counter}");
+//}
+//Console.WriteLine(SumOfThem(numbers3, counter5));
+#endregion
+
+
 
 
 
